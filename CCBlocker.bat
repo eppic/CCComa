@@ -1,10 +1,10 @@
 :top
 @echo off
-title CCBlocker
+title CCBlocker by eppic
 cls
 
 set command=
-echo Adobe CCBlocker - Block unnecessary Adobe processes by renaming
+echo CCBlocker - Block unnecessary Adobe processes by renaming 
 echo.
 echo (1) Block processes
 echo (2) Unblock processes

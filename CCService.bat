@@ -1,5 +1,5 @@
 @echo off
-title CCService
+title CCService by eppic
 :top
 cls
 
