@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/eppic/CCComa/main/CCBlocker.bat
    - After Effects
    - Audition
    - Media Encoder
+   - Dreamweaver
    - Acrobat DC
    - CC Stuff
 
